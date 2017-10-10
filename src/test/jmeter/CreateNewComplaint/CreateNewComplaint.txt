@@ -1,0 +1,74 @@
+Ramp up / Thread
+
+Throughput = Users / sec
+
+
+
+Scenario 0:
+No of threads: 20 threads						
+Ramp up period: 0 sec ramp up
+Loop Count: 1
+All 20 user will start at once.
+
+
+
+Scenario 1:
+No of threads: 30 threads						
+Ramp up period: 30 sec ramp up
+Loop Count: 1
+Add 1 user each sec.
+Every 1 sec (30/30) one request hits the server.
+
+
+
+Scenario 2:
+No of threads: 30 threads
+Ramp up period:60 sec ramp up
+Loop Count: 1
+Every 2 sec (60/30) one request hits the server.
+
+
+
+
+Scenario 3:
+No of threads:50 threads
+Ramp up period:50 sec ramp up
+Loop Count: 1
+Add 1 users each sec.
+Every 1 sec (50/50) one request hits the server.
+
+
+
+Scenario 4:
+No of threads:50 threads
+Ramp up period:50 sec ramp up
+Loop Count: 3
+Add 1 users each sec.
+Every 1 sec (50/50) 3 requests hits the server.
+
+
+
+Scenario 5:
+No of threads:50 threads
+Ramp up period:300 sec ramp up
+Loop Count: 5
+Every 60 sec (300/50) 5 requests hits the server.
+
+
+
+Scenario 6:
+No of threads:50 threads
+Ramp up period:300 sec ramp up
+Loop Count: 10
+Duration: 600 sec = 10 minutes
+Every 60 sec (300/50) 10 requests hits the server.
+
+summary +     48 in 00:00:28 =    1.7/s Avg: 28699 Min:     0 Max: 57675 Err:    43 (89.58%) Active: 46 Started: 50 Finished: 4
+
+
+
+
+Finished + Active = Started
+
+
+./jmeter -n -t /home/osboxes/Downloads/CEMSPerfTest/CEMS_PerformanceTests/src/test/jmeter/CreateNewComplaint/50Thread25Rampup_CreateNewComplaint.jmx  -l /home/osboxes/Downloads/CEMSPerfTest/CEMS_PerformanceTests/src/test/report/HTMLReports/$(date +%s)50Thread25Rampup_CreateNewComplaint.jtl -e -o /home/osboxes/Downloads/CEMSPerfTest/CEMS_PerformanceTests/src/test/report/HTMLReports/$(date +%s)50Thread25Rampup_CreateNewComplaintReport
