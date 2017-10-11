@@ -25,6 +25,7 @@ Scenario 2:
 No of threads: 30 threads
 Ramp up period:60 sec ramp up
 Loop Count: 1
+Add 2 users each sec.
 Every 2 sec (60/30) one request hits the server.
 
 
