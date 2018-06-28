@@ -1,0 +1,102 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1510756887724,813,1. GET/apply-for-help-with-nhs-costs/start,200,,Apply_For_Help 1-1,text,true,,311721,10646,1,1,216,0,160
+1510756888862,302,2. POST/apply-for-help-with-nhs-costs/start,200,,Apply_For_Help 1-1,text,true,,8026,17915,1,1,31,0,0
+1510756889184,473,3. GET/apply-for-help-with-nhs-costs/who-is-applying,200,,Apply_For_Help 1-1,text,true,,311073,12044,1,1,51,0,25
+1510756889843,289,4. POST/apply-for-help-with-nhs-costs/who-is-applying,200,,Apply_For_Help 1-1,text,true,,7377,18004,1,1,29,0,0
+1510756890134,150,5. GET/apply-for-help-with-nhs-costs/name-of-beneficiary,200,,Apply_For_Help 1-1,text,true,,7658,13630,1,1,21,0,0
+1510756892839,594,6. POST/apply-for-help-with-nhs-costs/name-of-beneficiary,200,,Apply_For_Help 1-1,text,true,,7856,18136,1,1,140,0,42
+1510756893459,443,7. GET/apply-for-help-with-nhs-costs/date-of-birth,200,,Apply_For_Help 1-1,text,true,,7329,13618,1,1,40,0,21
+1510756894953,284,8. POST/apply-for-help-with-nhs-costs/date-of-birth,200,,Apply_For_Help 1-1,text,true,,7500,18030,1,1,27,0,0
+1510756895263,212,9. GET/apply-for-help-with-nhs-costs/live-with-partner,200,,Apply_For_Help 1-1,text,true,,7316,13626,1,1,21,0,0
+1510756895570,351,10. POST/apply-for-help-with-nhs-costs/live-with-partner,200,,Apply_For_Help 1-1,text,true,,8121,18039,1,1,30,0,0
+1510756895942,347,11. GET/apply-for-help-with-nhs-costs/others-in-home,200,,Apply_For_Help 1-1,text,true,,7363,13620,1,1,38,0,19
+1510756896584,235,12 .POST/apply-for-help-with-nhs-costs/others-in-home,200,,Apply_For_Help 1-1,text,true,,7913,17967,1,1,24,0,0
+1510756896837,222,13. GET/apply-for-help-with-nhs-costs/paid-job,200,,Apply_For_Help 1-1,text,true,,7739,13608,1,1,20,0,0
+1510756897166,254,14. POST/apply-for-help-with-nhs-costs/paid-job,200,,Apply_For_Help 1-1,text,true,,7702,17864,1,1,26,0,0
+1510756897428,212,15. GET/apply-for-help-with-nhs-costs/benefits-or-tax-credits,200,,Apply_For_Help 1-1,text,true,,7512,13638,1,1,19,0,0
+1510756897847,368,16. POST/apply-for-help-with-nhs-costs/benefits-or-tax-credits,200,,Apply_For_Help 1-1,text,true,,7665,18179,1,1,24,0,0
+1510756898224,422,17. GET/apply-for-help-with-nhs-costs/get-other-money,200,,Apply_For_Help 1-1,text,true,,7716,13622,1,1,38,0,19
+1510756898675,240,18. POST/apply-for-help-with-nhs-costs/get-other-money,200,,Apply_For_Help 1-1,text,true,,8013,18001,1,1,28,0,0
+1510756898923,248,19. GET/apply-for-help-with-nhs-costs/more-than-6000,200,,Apply_For_Help 1-1,text,true,,7138,13620,1,1,21,0,0
+1510756900775,563,20. POST/apply-for-help-with-nhs-costs/more-than-6000,200,,Apply_For_Help 1-1,text,true,,8163,17961,1,1,115,0,38
+1510756901347,430,21. GET/apply-for-help-with-nhs-costs/address,200,,Apply_For_Help 1-1,text,true,,7643,13606,1,1,36,0,17
+1510756903192,523,22. POST/apply-for-help-with-nhs-costs/address,200,,Apply_For_Help 1-1,text,true,,7659,17943,1,1,132,0,44
+1510756903722,452,23. GET/apply-for-help-with-nhs-costs/how-to-contact,200,,Apply_For_Help 1-1,text,true,,7252,13620,1,1,38,0,18
+1510756904225,264,24. POST/apply-for-help-with-nhs-costs/how-to-contact,200,,Apply_For_Help 1-1,text,true,,7738,18027,1,1,30,0,0
+1510756904492,139,25. GET/apply-for-help-with-nhs-costs/contact-email-address,200,,Apply_For_Help 1-1,text,true,,7089,13634,1,1,19,0,0
+1510756904725,231,26. POST/apply-for-help-with-nhs-costs/contact-email-address,200,,Apply_For_Help 1-1,text,true,,7910,18133,1,1,27,0,0
+1510756905497,223,27. GET/apply-for-help-with-nhs-costs/type-of-property,200,,Apply_For_Help 1-1,text,true,,7615,13624,1,1,21,0,0
+1510756905768,462,28. POST/apply-for-help-with-nhs-costs/type-of-property,200,,Apply_For_Help 1-1,text,true,,7666,18025,1,1,126,0,45
+1510756906238,430,29. GET/apply-for-help-with-nhs-costs/get-a-pension,200,,Apply_For_Help 1-1,text,true,,6908,13618,1,1,37,0,17
+1510756906965,320,30. POST/apply-for-help-with-nhs-costs/get-a-pension,200,,Apply_For_Help 1-1,text,true,,8568,17970,1,1,30,0,0
+1510756907316,307,31. GET/apply-for-help-with-nhs-costs/check-your-answers,200,,Apply_For_Help 1-1,text,true,,8500,13628,1,1,19,0,0
+1510756907653,1837,32. POST/apply-for-help-with-nhs-costs/check-your-answers,200,,Apply_For_Help 1-1,text,true,,8244,18809,1,1,1276,0,0
+1510756909827,436,33. GET/apply-for-help-with-nhs-costs/application-submitted,200,,Apply_For_Help 1-1,text,true,,8057,14207,1,1,36,0,19
+1510756910264,0,Debug Sampler,200,OK,Apply_For_Help 1-1,text,true,,17328,0,1,1,0,0,0
+1510757262694,3224,1. GET/apply-for-help-with-nhs-costs/start,200,,Apply_For_Help 1-1,text,true,,311608,10646,1,1,1078,0,981
+1510757266124,567,2. POST/apply-for-help-with-nhs-costs/start,200,,Apply_For_Help 1-1,text,true,,7560,17915,1,1,154,0,76
+1510757266737,558,3. GET/apply-for-help-with-nhs-costs/who-is-applying,200,,Apply_For_Help 1-1,text,true,,311469,12044,1,1,40,0,21
+1510757267380,305,4. POST/apply-for-help-with-nhs-costs/who-is-applying,200,,Apply_For_Help 1-1,text,true,,8074,18004,1,1,40,0,0
+1510757267699,250,5. GET/apply-for-help-with-nhs-costs/name-of-beneficiary,200,,Apply_For_Help 1-1,text,true,,7427,13630,1,1,20,0,0
+1510757269973,706,6. POST/apply-for-help-with-nhs-costs/name-of-beneficiary,200,,Apply_For_Help 1-1,text,true,,7968,18136,1,1,137,0,52
+1510757270688,476,7. GET/apply-for-help-with-nhs-costs/date-of-birth,200,,Apply_For_Help 1-1,text,true,,7441,13618,1,1,38,0,19
+1510757271170,290,8. POST/apply-for-help-with-nhs-costs/date-of-birth,200,,Apply_For_Help 1-1,text,true,,7269,18030,1,1,29,0,0
+1510757271494,232,9. GET/apply-for-help-with-nhs-costs/live-with-partner,200,,Apply_For_Help 1-1,text,true,,7666,13626,1,1,19,0,0
+1510757271755,202,10. POST/apply-for-help-with-nhs-costs/live-with-partner,200,,Apply_For_Help 1-1,text,true,,7651,18039,1,1,26,0,0
+1510757271988,165,11. GET/apply-for-help-with-nhs-costs/others-in-home,200,,Apply_For_Help 1-1,text,true,,8057,13620,1,1,20,0,0
+1510757272371,534,12 .POST/apply-for-help-with-nhs-costs/others-in-home,200,,Apply_For_Help 1-1,text,true,,8029,17967,1,1,143,0,57
+1510757272918,435,13. GET/apply-for-help-with-nhs-costs/paid-job,200,,Apply_For_Help 1-1,text,true,,7739,13608,1,1,45,0,19
+1510757273361,281,14. POST/apply-for-help-with-nhs-costs/paid-job,200,,Apply_For_Help 1-1,text,true,,7817,17864,1,1,26,0,0
+1510757273662,271,15. GET/apply-for-help-with-nhs-costs/benefits-or-tax-credits,200,,Apply_For_Help 1-1,text,true,,7280,13638,1,1,20,0,0
+1510757274035,277,16. POST/apply-for-help-with-nhs-costs/benefits-or-tax-credits,200,,Apply_For_Help 1-1,text,true,,7547,18179,1,1,28,0,0
+1510757274331,255,17. GET/apply-for-help-with-nhs-costs/get-other-money,200,,Apply_For_Help 1-1,text,true,,7369,13622,1,1,21,0,0
+1510757274672,466,18. POST/apply-for-help-with-nhs-costs/get-other-money,200,,Apply_For_Help 1-1,text,true,,7665,18001,1,1,125,0,42
+1510757275146,367,19. GET/apply-for-help-with-nhs-costs/more-than-6000,200,,Apply_For_Help 1-1,text,true,,7370,13620,1,1,38,0,19
+1510757276774,426,20. POST/apply-for-help-with-nhs-costs/more-than-6000,200,,Apply_For_Help 1-1,text,true,,8047,17961,1,1,32,0,0
+1510757277243,406,21. GET/apply-for-help-with-nhs-costs/address,200,,Apply_For_Help 1-1,text,true,,7529,13606,1,1,37,0,17
+1510757281349,636,22. POST/apply-for-help-with-nhs-costs/address,200,,Apply_For_Help 1-1,text,true,,7546,17943,1,1,135,0,52
+1510757282023,440,23. GET/apply-for-help-with-nhs-costs/how-to-contact,200,,Apply_For_Help 1-1,text,true,,7133,13620,1,1,42,0,21
+1510757282612,286,24. POST/apply-for-help-with-nhs-costs/how-to-contact,200,,Apply_For_Help 1-1,text,true,,7552,18027,1,1,27,0,0
+1510757282915,304,25. GET/apply-for-help-with-nhs-costs/contact-email-address,200,,Apply_For_Help 1-1,text,true,,7249,13634,1,1,19,0,0
+1510757283278,271,26. POST/apply-for-help-with-nhs-costs/contact-email-address,200,,Apply_For_Help 1-1,text,true,,8378,18133,1,1,26,0,0
+1510757284855,470,27. GET/apply-for-help-with-nhs-costs/type-of-property,200,,Apply_For_Help 1-1,text,true,,7614,13624,1,1,40,0,20
+1510757286297,485,28. POST/apply-for-help-with-nhs-costs/type-of-property,200,,Apply_For_Help 1-1,text,true,,8011,18025,1,1,133,0,50
+1510757286803,233,29. GET/apply-for-help-with-nhs-costs/get-a-pension,200,,Apply_For_Help 1-1,text,true,,7022,13618,1,1,22,0,0
+1510757287051,346,30. POST/apply-for-help-with-nhs-costs/get-a-pension,200,,Apply_For_Help 1-1,text,true,,8564,17970,1,1,25,0,0
+1510757287399,503,31. GET/apply-for-help-with-nhs-costs/check-your-answers,200,,Apply_For_Help 1-1,text,true,,8269,13628,1,1,38,0,19
+1510757287928,1776,32. POST/apply-for-help-with-nhs-costs/check-your-answers,200,,Apply_For_Help 1-1,text,true,,8548,18809,1,1,1309,0,0
+1510757290081,481,33. GET/apply-for-help-with-nhs-costs/application-submitted,200,,Apply_For_Help 1-1,text,true,,7783,14207,1,1,39,0,19
+1510757290587,3,Debug Sampler,200,OK,Apply_For_Help 1-1,text,true,,17830,0,1,1,0,0,0
+1511363249259,3814,1.GET/check-for-help-paying-nhs-costs/start,200,,Eligibility_checker_Scn2 1-1,text,true,,317317,14230,1,1,1300,0,1109
+1511363253511,301,2.POST/check-for-help-paying-nhs-costs/start,200,,Eligibility_checker_Scn2 1-1,text,true,,5527,2664,1,1,191,0,104
+1511363253867,596,3.GET/check-for-help-paying-nhs-costs/where-you-live,200,,Eligibility_checker_Scn2 1-1,text,true,,317599,15101,1,1,37,0,18
+1511363254471,131,4.POST/check-for-help-paying-nhs-costs/where-you-live,200,,Eligibility_checker_Scn2 1-1,text,true,,5567,2729,1,1,43,0,0
+1511363254631,88,5.GET/check-for-help-paying-nhs-costs/live-in-highlands,200,,Eligibility_checker_Scn2 1-1,text,true,,4856,1386,1,1,18,0,0
+1511363254754,128,6.POST/check-for-help-paying-nhs-costs/live-in-highlands,200,,Eligibility_checker_Scn2 1-1,text,true,,5596,2742,1,1,43,0,0
+1511363254927,91,6.GET/check-for-help-paying-nhs-costs/date-of-birth,200,,Eligibility_checker_Scn2 1-1,text,true,,4889,1378,1,1,22,0,0
+1511363255035,130,7.POST/check-for-help-paying-nhs-costs/date-of-birth,200,,Eligibility_checker_Scn2 1-1,text,true,,5582,2744,1,1,44,0,0
+1511363255206,82,8.GET/check-for-help-paying-nhs-costs/partner,200,,Eligibility_checker_Scn2 1-1,text,true,,4880,1366,1,1,18,0,0
+1511363255305,133,9.POST/check-for-help-paying-nhs-costs/partner,200,,Eligibility_checker_Scn2 1-1,text,true,,5742,2688,1,1,46,0,0
+1511363255485,86,10.GET/check-for-help-paying-nhs-costs/tax-credit-claim,200,,Eligibility_checker_Scn2 1-1,text,true,,5032,1384,1,1,24,0,0
+1511363255586,288,11.POST/check-for-help-paying-nhs-costs/tax-credit-claim,200,,Eligibility_checker_Scn2 1-1,text,true,,5631,2765,1,1,157,0,61
+1511363255910,153,12.GET/check-for-help-paying-nhs-costs/tax-credit-income,200,,Eligibility_checker_Scn2 1-1,text,true,,5023,1386,1,1,42,0,24
+1511363256078,346,13.POST/check-for-help-paying-nhs-costs/tax-credit-income,200,,Eligibility_checker_Scn2 1-1,text,true,,13747,4554,1,1,45,0,0
+1511363256427,355,14.GET/check-for-help-paying-nhs-costs/result-claiming-qualifying-tax-credit,200,,Eligibility_checker_Scn2 1-1,text,true,,13120,2818,1,1,19,0,0
+1511363256805,7,Debug Sampler,200,OK,Eligibility_checker_Scn2 1-1,text,true,,17997,0,1,1,0,0,0
+1511363306026,3395,1.GET/check-for-help-paying-nhs-costs/start,200,,Eligibility_checker_Scn2 1-1,text,true,,317599,14230,1,1,1112,0,953
+1511363389397,3354,1.GET/check-for-help-paying-nhs-costs/start,200,,Eligibility_checker_Scn2 1-1,text,true,,317340,14230,1,1,1297,0,1187
+1511363392892,185,2.POST/check-for-help-paying-nhs-costs/start,200,,Eligibility_checker_Scn2 1-1,text,true,,5633,2664,1,1,55,0,0
+1511363393105,494,3.GET/check-for-help-paying-nhs-costs/where-you-live,200,,Eligibility_checker_Scn2 1-1,text,true,,317568,15101,1,1,41,0,21
+1511363393607,230,4.POST/check-for-help-paying-nhs-costs/where-you-live,200,,Eligibility_checker_Scn2 1-1,text,true,,5570,2729,1,1,140,0,40
+1511363393893,83,5.GET/check-for-help-paying-nhs-costs/live-in-highlands,200,,Eligibility_checker_Scn2 1-1,text,true,,4858,1386,1,1,20,0,0
+1511363393994,133,6.POST/check-for-help-paying-nhs-costs/live-in-highlands,200,,Eligibility_checker_Scn2 1-1,text,true,,5597,2742,1,1,43,0,0
+1511363394149,92,6.GET/check-for-help-paying-nhs-costs/date-of-birth,200,,Eligibility_checker_Scn2 1-1,text,true,,4785,1378,1,1,21,0,0
+1511363394272,154,7.POST/check-for-help-paying-nhs-costs/date-of-birth,200,,Eligibility_checker_Scn2 1-1,text,true,,5583,2744,1,1,43,0,0
+1511363394463,86,8.GET/check-for-help-paying-nhs-costs/partner,200,,Eligibility_checker_Scn2 1-1,text,true,,4882,1366,1,1,20,0,0
+1511363394564,174,9.POST/check-for-help-paying-nhs-costs/partner,200,,Eligibility_checker_Scn2 1-1,text,true,,5639,2688,1,1,68,0,0
+1511363394780,91,10.GET/check-for-help-paying-nhs-costs/tax-credit-claim,200,,Eligibility_checker_Scn2 1-1,text,true,,5032,1384,1,1,20,0,0
+1511363394886,130,11.POST/check-for-help-paying-nhs-costs/tax-credit-claim,200,,Eligibility_checker_Scn2 1-1,text,true,,5734,2765,1,1,42,0,0
+1511363395052,91,12.GET/check-for-help-paying-nhs-costs/tax-credit-income,200,,Eligibility_checker_Scn2 1-1,text,true,,5024,1386,1,1,19,0,0
+1511363395158,330,13.POST/check-for-help-paying-nhs-costs/tax-credit-income,200,,Eligibility_checker_Scn2 1-1,text,true,,13748,4554,1,1,43,0,0
+1511363395512,372,14.GET/check-for-help-paying-nhs-costs/result-claiming-qualifying-tax-credit,200,,Eligibility_checker_Scn2 1-1,text,true,,13017,2818,1,1,39,0,18
+1511363395913,2,Debug Sampler,200,OK,Eligibility_checker_Scn2 1-1,text,true,,17997,0,1,1,0,0,0

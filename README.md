@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. clone the repo `git clone git@dps-gitlab.service.nhsbsa:shabh/CEMS_PerformanceTests.git` (ssh) or `git clone https://dps-gitlab.service.nhsbsa/shabh/CEMS_PerformanceTests.git` (If you are using https your personal clone link is foun on the project page)
+1. clone the repo `git clone <ssh>.git` (ssh) or `git clone <https>.git` (If you are using https your personal clone link is foun on the project page)
 2. fetch the latest tags `git fetch --tags`
 3. checkout the latest tag e.g. `git checkout 0.0.x`
 4. import the maven project into your favourite IDE
@@ -23,8 +23,8 @@ Running the tests via maven allow run time arguments to passed in easily and ena
 
 1. View run configurations
 2. Select Maven Build >> New
-3. Set Base directory `${workspace_loc:/CEMS_PerformanceTests_Workspace}`
-4. Set Command `./jmeter -n -t /home/osboxes/Downloads/CEMSPerfTest/CEMS_PerformanceTests/src/test/jmeter/CreateNewComplaint.jmx  -l /home/osboxes/Downloads/CEMSPerfTest/CEMS_PerformanceTests/src/test/report/HTMLReports/$(date +%s)newcomplaint.jtl -e -o /home/osboxes/Downloads/CEMSPerfTest/CEMS_PerformanceTests/src/test/report/HTMLReports/$(date +%s)Report` replacing the report folder (html and jtl) and jmx file as requires
+3. Set Base directory `${workspace_loc:/PerformanceTests_Workspace}`
+4. Set Command `./jmeter -n -t /home/osboxes/Downloads/PerfTest/PerformanceTests/src/test/jmeter/CreateNewComplaint.jmx  -l /home/osboxes/Downloads/CEMSPerfTest/PerformanceTests/src/test/report/HTMLReports/$(date +%s)newcomplaint.jtl -e -o /home/osboxes/Downloads/CEMSPerfTest/PerformanceTests/src/test/report/HTMLReports/$(date +%s)Report` replacing the report folder (html and jtl) and jmx file as requires
 5. Apply and Run
 
 ## Apache JMeter

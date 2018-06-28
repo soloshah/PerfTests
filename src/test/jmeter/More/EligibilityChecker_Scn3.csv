@@ -1,0 +1,37 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1512051629285,3167,1.GET/check-for-help-paying-nhs-costs/start,200,,EligibilityChecker_Scn3 1-1,text,true,,280584,12453,1,1,346,0,258
+1512051632633,333,2.POST/check-for-help-paying-nhs-costs/start,200,,EligibilityChecker_Scn3 1-1,text,true,,5211,2478,1,1,159,0,53
+1512051633008,507,3.GET/check-for-help-paying-nhs-costs/where-you-live,200,,EligibilityChecker_Scn3 1-1,text,true,,280914,13204,1,1,43,0,22
+1512051633825,176,4.POST/check-for-help-paying-nhs-costs/where-you-live,200,,EligibilityChecker_Scn3 1-1,text,true,,5172,2554,1,1,50,0,0
+1512051634030,93,5.GET/check-for-help-paying-nhs-costs/gp-in-scotland-or-wales,200,,EligibilityChecker_Scn3 1-1,text,true,,4559,1274,1,1,21,0,0
+1512051634160,147,6.POST/check-for-help-paying-nhs-costs/gp-in-scotland-or-wales,200,,EligibilityChecker_Scn3 1-1,text,true,,5173,2579,1,1,48,0,0
+1512051634333,115,7.GET/check-for-help-paying-nhs-costs/date-of-birth,200,,EligibilityChecker_Scn3 1-1,text,true,,4570,1254,1,1,37,0,0
+1512051634496,145,8.POST/check-for-help-paying-nhs-costs/date-of-birth,200,,EligibilityChecker_Scn3 1-1,text,true,,5159,2558,1,1,52,0,0
+1512051634678,126,9.GET/check-for-help-paying-nhs-costs/partner,200,,EligibilityChecker_Scn3 1-1,text,true,,4562,1242,1,1,28,0,0
+1512051634827,272,10.POST/check-for-help-paying-nhs-costs/partner,200,,EligibilityChecker_Scn3 1-1,text,true,,5322,2502,1,1,152,0,45
+1512051635115,119,11.GET/check-for-help-paying-nhs-costs/tax-credit-claim,200,,EligibilityChecker_Scn3 1-1,text,true,,4716,1260,1,1,42,0,21
+1512051635271,163,12.POST/check-for-help-paying-nhs-costs/tax-credit-claim,200,,EligibilityChecker_Scn3 1-1,text,true,,5314,2579,1,1,49,0,0
+1512051635458,206,13.GET/check-for-help-paying-nhs-costs/tax-credit-income,200,,EligibilityChecker_Scn3 1-1,text,true,,4707,1262,1,1,22,0,0
+1512051635720,156,14.POST/check-for-help-paying-nhs-costs/tax-credit-income,200,,EligibilityChecker_Scn3 1-1,text,true,,5629,2533,1,1,52,0,0
+1512051635898,97,15.GET/check-for-help-paying-nhs-costs/benefits,200,,EligibilityChecker_Scn3 1-1,text,true,,5088,1244,1,1,22,0,0
+1512051636011,154,16.POST/check-for-help-paying-nhs-costs/benefits,200,,EligibilityChecker_Scn3 1-1,text,true,,5327,2531,1,1,52,0,0
+1512051636205,94,17.GET/check-for-help-paying-nhs-costs/universal-credit-claim,200,,EligibilityChecker_Scn3 1-1,text,true,,4715,1272,1,1,26,0,0
+1512051636327,410,18.POST/check-for-help-paying-nhs-costs/universal-credit-claim,200,,EligibilityChecker_Scn3 1-1,text,true,,11168,4285,1,1,49,0,0
+1512051636745,255,19.GET/check-for-help-paying-nhs-costs/universal-credit-take-home-pay,200,,EligibilityChecker_Scn3 1-1,text,true,,10548,2566,1,1,23,0,0
+1512051637005,169,20.POST/check-for-help-paying-nhs-costs/universal-credit-take-home-pay,200,,EligibilityChecker_Scn3 1-1,text,true,,5186,2626,1,1,50,0,0
+1512051637194,127,21.GET/check-for-help-paying-nhs-costs/pregnant-or-given-birth,200,,EligibilityChecker_Scn3 1-1,text,true,,4573,1274,1,1,52,0,29
+1512051637341,165,22.POST/check-for-help-paying-nhs-costs/pregnant-or-given-birth,200,,EligibilityChecker_Scn3 1-1,text,true,,5188,2574,1,1,69,0,0
+1512051637550,110,23.GET/check-for-help-paying-nhs-costs/war-pensioner,200,,EligibilityChecker_Scn3 1-1,text,true,,4585,1254,1,1,23,0,0
+1512051637683,153,24.POST/check-for-help-paying-nhs-costs/war-pensioner,200,,EligibilityChecker_Scn3 1-1,text,true,,5170,2531,1,1,51,0,0
+1512051637855,94,25.GET/check-for-help-paying-nhs-costs/medical-condition,200,,EligibilityChecker_Scn3 1-1,text,true,,4563,1262,1,1,22,0,0
+1512051637971,195,26.POST/check-for-help-paying-nhs-costs/medical-condition,200,,EligibilityChecker_Scn3 1-1,text,true,,5767,2575,1,1,66,0,0
+1512051638215,143,27.GET/check-for-help-paying-nhs-costs/list-of-medical-conditions,200,,EligibilityChecker_Scn3 1-1,text,true,,5151,1280,1,1,24,0,0
+1512051638388,204,28.POST/check-for-help-paying-nhs-costs/list-of-medical-conditions,200,,EligibilityChecker_Scn3 1-1,text,true,,5201,2580,1,1,66,0,0
+1512051638638,145,29.GET/check-for-help-paying-nhs-costs/glaucoma,200,,EligibilityChecker_Scn3 1-1,text,true,,4603,1244,1,1,42,0,0
+1512051638800,324,30.POST/check-for-help-paying-nhs-costs/glaucoma,200,,EligibilityChecker_Scn3 1-1,text,true,,5151,2492,1,1,178,0,56
+1512051639141,216,31.GET/check-for-help-paying-nhs-costs/care-home,200,,EligibilityChecker_Scn3 1-1,text,true,,4552,1246,1,1,23,0,0
+1512051639374,167,32.POST/check-for-help-paying-nhs-costs/care-home,200,,EligibilityChecker_Scn3 1-1,text,true,,5142,2494,1,1,48,0,0
+1512051639552,122,33.GETcheck-for-help-paying-nhs-costs/savings,200,,EligibilityChecker_Scn3 1-1,text,true,,4545,1242,1,1,47,0,22
+1512051639695,243,34.POST/check-for-help-paying-nhs-costs/savings,200,,EligibilityChecker_Scn3 1-1,text,true,,6695,2485,1,1,49,0,0
+1512051639976,170,35.GET/check-for-help-paying-nhs-costs/result,200,,EligibilityChecker_Scn3 1-1,text,true,,6046,1240,1,1,22,0,0
+1512051640188,14,Debug Sampler,200,OK,EligibilityChecker_Scn3 1-1,text,true,,17522,0,1,1,0,0,0
