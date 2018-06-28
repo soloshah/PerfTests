@@ -1,4 +1,4 @@
-# Cucumber tests
+# Perf tests
 
 ## Setup
 
